@@ -1,17 +1,17 @@
-body {
-    background-color: rgb(11, 11, 80); 
-}
+
 div {
-    border: 3px white solid;
+    border: 3px black solid;
     border-radius: 20px;
     width: max-content;
     position: relative;
     left: 300px;
+    background-color: rgb(11, 11, 80);
     
 }
 
 h1 {
     color: white;
+    background-color: rgb(11, 11, 80);
     text-align: center;
     text-transform: capitalize;
     font-size: 35px;
